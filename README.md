@@ -20,15 +20,19 @@ The system enables:
 ## 🏗 System Architecture
 
 User
+
  ↓
 
 ASP.NET Frontend
+
  ↓
 
 Business Logic (C#)
+
  ↓
 
 SQL Server Database
+
 
 ## ✨ Features
 
@@ -57,7 +61,3 @@ SQL Server Database
 | ASP.NET | Frontend & Backend |
 | C# | Business Logic |
 | SQL Server | Database |
-
- ↓
-
-SQL Server Database
